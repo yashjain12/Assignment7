@@ -1,0 +1,10 @@
+body {
+  font-family: "calibri";
+}
+ul {
+  list-style-type: none;
+}
+li {
+  transform: translate(-15px, 0px);
+  margin-bottom: 10px; 
+}
